@@ -1,3 +1,4 @@
+<b>#Hi,I am Tharun and welcome to my new project using Html,css and javascript,</b><br>
 # Travel-Website-Outlook                              
 1.open Travel Website folder                          <br>
 2.use index.html file to start                        <br>
