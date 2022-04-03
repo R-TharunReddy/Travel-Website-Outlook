@@ -4,8 +4,11 @@
 2.use index.html file to start                        <br>
 3.If u download the code                              <br>
 4.Better correct the file paths.                      <br>
-DONT FORGET TO GIVE STARS..IF U LIKE THE WEBSITE    <br>
+<b>#Hope u like the project.
+#Feel free to download the source code and follow for new projects.<br>
+#dont foget to give a star if u like the project.   <br>
 <br>
 
 #Demo VIdeo
 link:https://travel-consultancy-website.herokuapp.com/
+</b>
